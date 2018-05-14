@@ -2,9 +2,6 @@
 #coding=utf-8
 # @Time    : 2018/5/9 16:57
 # @Author  : Changfa Wu
-# @Site    :
-# @File    : DecisionTree.py
-# @Software: PyCharm
 #爬取豆瓣电影top250
 import requests
 from lxml import etree
