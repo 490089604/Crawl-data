@@ -2,9 +2,6 @@
 #coding=utf-8
 # @Time    : 2018/5/9 16:57
 # @Author  : Changfa Wu
-# @Site    :
-# @File    : DecisionTree.py
-# @Software: PyCharm
 #用selenium爬取电商网站图片
 from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
