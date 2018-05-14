@@ -2,9 +2,6 @@
 #coding=utf-8
 # @Time    : 2018/5/9 16:57
 # @Author  : Changfa Wu
-# @Site    :
-# @File    : DecisionTree.py
-# @Software: PyCharm
 #用于登录东北大学校园网
 import requests
 
